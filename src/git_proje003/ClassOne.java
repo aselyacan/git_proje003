@@ -7,6 +7,7 @@ public class ClassOne {
 		System.out.println("local master branch ikinci commit");
 		System.out.println("remote dan ilk commit ");
 		System.out.println("'remote dan ikinci commit");
+		System.out.println("Local masterdan ucuncu commit");
 
 	}
 
