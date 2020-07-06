@@ -19,6 +19,12 @@ public class ClassOne {
 		}
 
 		System.out.println(sum+"local eclipsten ilk deneme bakalim");
+		
+		int c=34;
+		int d=232;
+		System.out.println(c+d);
+		System.out.println("kendi denemelrim olan ikinic commit git hub dan to eclipse ");
+		
 	}
 
 }
