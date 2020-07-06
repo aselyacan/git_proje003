@@ -19,10 +19,21 @@ public class ClassOne {
 		}
 
 		System.out.println(sum+"local eclipsten ilk deneme bakalim");
+
+		// Burasi ise  local  master olan pc eclips de olan islem ve yorumlar o da  duzenlendi ve kayd oldu 
 		System.out.println("local master dan 3 commit");
 		int y=56;
 		int r=234;
 		System.out.println("local dan 3. degisiklik ama conflict  olacak "+y+r);
+
+	    // burasi  git hub dan gelme  commit ve degisiklik  di ve sonra eclipste duzenlendi
+		int c=34;
+		int d=232;
+		System.out.println(c+d);
+		System.out.println("kendi denemelrim olan ikinic commit git hub dan to eclipse ");
+
+		// merge den sonra simdi bu code tekrar  git hub a geri gondercegim bakalim nasil olacak 
+		
 		
 	}
 
