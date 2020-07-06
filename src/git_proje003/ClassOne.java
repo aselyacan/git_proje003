@@ -19,6 +19,11 @@ public class ClassOne {
 		}
 
 		System.out.println(sum+"local eclipsten ilk deneme bakalim");
+		System.out.println("local master dan 3 commit");
+		int y=56;
+		int r=234;
+		System.out.println("local dan 3. degisiklik ama conflict  olacak "+y+r);
+		
 	}
 
 }
