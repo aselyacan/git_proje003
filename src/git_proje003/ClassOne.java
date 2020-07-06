@@ -9,9 +9,6 @@ public class ClassOne {
 		System.out.println("'remote dan ikinci commit");
 		System.out.println("Local masterdan ucuncu commit");
 
-		System.out.println("feature  branch icin ilk commit ");
-		System.out.println("yeni dunya iste bu ikinci commit feature icin ");
-		
 	}
 
 }
