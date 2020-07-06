@@ -8,6 +8,7 @@ public class ClassOne {
 		System.out.println("remote dan ilk commit ");
 		System.out.println("'remote dan ikinci commit");
 		System.out.println("Local masterdan ucuncu commit");
+		System.out.println("git huup dan bugun to local master icin ilk yorum ");
 
 	}
 
